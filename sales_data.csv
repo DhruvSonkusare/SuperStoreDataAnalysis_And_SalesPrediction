@@ -1,0 +1,251 @@
+Product,Region,Sales,Profit,Discount,Category,Date
+Tablet,North,2857,1933,0.28,Accessories,2022-10-15
+Laptop,East,1619,1634,0.07,Accessories,2022-02-23
+Laptop,North,4678,858,0.17,Office Supplies,2022-03-21
+Camera,West,5817,302,0.3,Accessories,2022-04-03
+Camera,South,5955,1903,0.24,Accessories,2022-06-16
+Smartwatch,West,1666,525,0.15,Office Supplies,2022-09-04
+Headphones,South,3601,1263,0.22,Accessories,2022-11-02
+Smartwatch,West,1714,1032,0.24,Electronics,2022-10-17
+Monitor,East,4051,1577,0.19,Electronics,2022-07-27
+Monitor,North,4282,1757,0.19,Office Supplies,2022-05-11
+Smartwatch,East,5248,1781,0.09,Office Supplies,2022-05-25
+Camera,West,5444,1358,0.23,Office Supplies,2022-04-13
+Printer,West,805,1244,0.27,Accessories,2022-04-22
+Headphones,East,4339,554,0.13,Electronics,2022-02-22
+Laptop,East,3192,1000,0.08,Office Supplies,2022-01-09
+Camera,North,4370,491,0.24,Electronics,2022-03-31
+Tablet,North,3123,623,0.17,Electronics,2022-03-09
+Phone,West,3261,1747,0.11,Office Supplies,2022-01-18
+Monitor,South,3975,1909,0.11,Accessories,2022-01-05
+Smartwatch,South,1937,2409,0.24,Electronics,2022-06-25
+Phone,North,4543,790,0.13,Electronics,2022-09-16
+Tablet,West,5239,308,0.27,Accessories,2022-04-27
+Laptop,East,555,100,0.29,Office Supplies,2022-01-09
+Phone,West,1134,1980,0.06,Accessories,2022-05-18
+Headphones,West,1692,712,0.2,Electronics,2022-09-30
+Monitor,West,3571,1744,0.14,Accessories,2022-08-09
+Laptop,North,1598,2259,0.06,Office Supplies,2022-11-06
+Tablet,West,1272,2467,0.28,Office Supplies,2022-04-10
+Headphones,East,1301,2100,0.13,Office Supplies,2022-07-08
+Laptop,East,4338,218,0.15,Office Supplies,2022-09-04
+Phone,North,3322,949,0.16,Electronics,2022-05-03
+Headphones,East,3808,590,0.09,Electronics,2022-08-24
+Printer,East,829,1633,0.17,Office Supplies,2022-04-18
+Printer,South,1623,214,0.08,Electronics,2022-06-18
+Laptop,South,5041,664,0.13,Electronics,2022-10-14
+Phone,West,2332,1584,0.23,Office Supplies,2022-08-19
+Tablet,East,5405,1725,0.25,Office Supplies,2022-09-13
+Printer,West,3230,2416,0.26,Electronics,2022-02-15
+Printer,East,1534,1881,0.09,Accessories,2022-12-01
+Monitor,West,4440,1797,0.18,Accessories,2022-09-30
+Tablet,North,2672,1015,0.07,Electronics,2022-08-30
+Phone,East,5137,799,0.12,Office Supplies,2022-09-04
+Headphones,East,4437,743,0.16,Electronics,2022-09-17
+Phone,East,4787,1328,0.28,Office Supplies,2022-12-27
+Headphones,East,614,154,0.11,Office Supplies,2022-01-07
+Smartwatch,West,4942,165,0.28,Office Supplies,2022-03-20
+Laptop,South,5697,1431,0.29,Office Supplies,2022-02-26
+Monitor,South,4895,2347,0.25,Office Supplies,2022-07-04
+Tablet,North,3767,2112,0.22,Electronics,2022-08-01
+Camera,North,4263,1389,0.07,Electronics,2022-08-09
+Smartwatch,West,2771,1799,0.17,Electronics,2022-12-10
+Printer,North,1304,1867,0.13,Office Supplies,2022-03-17
+Smartwatch,West,5659,1836,0.17,Accessories,2022-01-06
+Printer,North,1065,1816,0.16,Office Supplies,2022-12-25
+Printer,West,5209,452,0.19,Office Supplies,2022-09-02
+Headphones,West,4470,2091,0.06,Office Supplies,2022-08-11
+Headphones,West,2773,1426,0.06,Accessories,2022-11-02
+Phone,West,715,1537,0.3,Electronics,2022-09-13
+Phone,South,1003,1467,0.29,Accessories,2022-03-06
+Smartwatch,West,1159,2172,0.1,Accessories,2022-11-07
+Tablet,South,639,990,0.14,Office Supplies,2022-12-18
+Tablet,North,5825,1927,0.26,Office Supplies,2022-01-13
+Monitor,West,1190,1819,0.26,Accessories,2022-09-16
+Smartwatch,East,3290,2345,0.22,Electronics,2022-02-26
+Tablet,North,4027,497,0.16,Electronics,2022-05-20
+Smartwatch,South,3350,1838,0.05,Electronics,2022-03-29
+Laptop,West,3334,1130,0.17,Accessories,2022-11-24
+Printer,South,5289,717,0.19,Office Supplies,2022-03-12
+Tablet,East,5637,505,0.12,Electronics,2022-04-04
+Laptop,West,4438,1523,0.13,Office Supplies,2022-07-25
+Smartwatch,West,4083,1393,0.15,Accessories,2022-01-27
+Smartwatch,South,3925,2413,0.15,Office Supplies,2022-11-04
+Phone,West,2409,2192,0.21,Office Supplies,2022-12-15
+Camera,East,3483,2241,0.15,Accessories,2022-08-05
+Headphones,South,3035,1555,0.12,Office Supplies,2022-07-16
+Tablet,East,3375,1930,0.27,Accessories,2022-03-02
+Laptop,West,3554,2191,0.08,Electronics,2022-04-18
+Phone,East,1547,1833,0.18,Office Supplies,2022-12-07
+Smartwatch,West,1597,257,0.09,Office Supplies,2022-11-27
+Headphones,East,4671,1010,0.11,Accessories,2022-08-26
+Tablet,North,4945,1074,0.16,Electronics,2022-05-02
+Camera,North,5426,1674,0.24,Electronics,2022-11-06
+Monitor,South,4860,1937,0.09,Electronics,2022-06-05
+Headphones,West,1687,591,0.08,Accessories,2022-10-05
+Laptop,North,5351,703,0.17,Office Supplies,2022-11-28
+Monitor,East,1285,1313,0.22,Accessories,2022-04-15
+Smartwatch,East,1368,365,0.18,Electronics,2022-03-11
+Smartwatch,West,1603,1406,0.28,Accessories,2022-09-14
+Headphones,West,4603,1822,0.28,Accessories,2022-09-02
+Smartwatch,West,2531,425,0.2,Office Supplies,2022-09-14
+Printer,South,1850,208,0.08,Office Supplies,2022-07-21
+Camera,East,5639,1588,0.11,Electronics,2022-04-17
+Monitor,North,2436,1017,0.1,Office Supplies,2022-12-25
+Monitor,West,4561,909,0.14,Electronics,2022-09-04
+Headphones,East,1512,1443,0.08,Electronics,2022-11-20
+Monitor,East,2695,220,0.16,Accessories,2022-10-15
+Tablet,East,3826,1582,0.06,Accessories,2022-12-03
+Phone,East,3693,1237,0.29,Office Supplies,2022-03-18
+Tablet,West,2968,2450,0.08,Electronics,2022-03-01
+Printer,North,3652,914,0.14,Office Supplies,2022-05-21
+Printer,South,5990,670,0.28,Accessories,2022-08-14
+Phone,West,3954,727,0.16,Accessories,2022-07-09
+Printer,East,1540,397,0.19,Accessories,2022-06-30
+Smartwatch,North,3768,1029,0.07,Accessories,2022-10-16
+Phone,South,2724,1478,0.07,Electronics,2022-02-20
+Tablet,North,1467,273,0.29,Office Supplies,2022-02-24
+Tablet,West,765,207,0.21,Accessories,2022-05-13
+Camera,East,1952,719,0.25,Electronics,2022-02-02
+Headphones,West,2156,238,0.07,Accessories,2022-04-24
+Smartwatch,West,5036,1578,0.3,Accessories,2022-09-15
+Phone,West,2685,1885,0.23,Electronics,2022-06-23
+Monitor,East,4808,1690,0.2,Electronics,2022-05-27
+Headphones,North,5682,1257,0.18,Accessories,2022-09-11
+Headphones,South,5594,1433,0.14,Accessories,2022-06-02
+Monitor,South,5239,1855,0.28,Electronics,2022-10-09
+Camera,North,681,1228,0.21,Accessories,2022-04-11
+Monitor,East,3169,459,0.14,Electronics,2022-01-09
+Camera,East,1252,162,0.23,Accessories,2022-03-22
+Camera,North,4312,2150,0.21,Office Supplies,2022-11-29
+Monitor,West,3690,871,0.15,Office Supplies,2022-10-11
+Tablet,East,4668,190,0.2,Office Supplies,2022-07-02
+Headphones,East,2411,469,0.17,Accessories,2022-08-21
+Monitor,East,3452,1695,0.16,Office Supplies,2022-11-17
+Phone,East,5507,802,0.14,Accessories,2022-07-02
+Printer,West,5872,632,0.19,Office Supplies,2022-04-07
+Smartwatch,East,5848,1193,0.25,Accessories,2022-05-25
+Phone,South,1936,1357,0.06,Office Supplies,2022-04-19
+Printer,East,3630,2150,0.14,Office Supplies,2022-11-24
+Headphones,South,1210,1388,0.25,Accessories,2022-09-12
+Camera,North,2642,1812,0.05,Accessories,2022-07-07
+Monitor,West,5456,1197,0.11,Accessories,2022-01-14
+Tablet,North,3258,2302,0.19,Accessories,2022-07-18
+Monitor,West,2156,1243,0.08,Electronics,2022-06-10
+Smartwatch,East,1153,603,0.1,Electronics,2022-04-17
+Monitor,North,3889,1071,0.28,Accessories,2022-04-20
+Smartwatch,East,4992,300,0.22,Electronics,2022-02-24
+Monitor,East,1783,228,0.21,Office Supplies,2022-11-29
+Laptop,North,4285,1535,0.2,Electronics,2022-06-16
+Laptop,North,3504,719,0.06,Office Supplies,2022-09-17
+Printer,East,1793,2221,0.07,Office Supplies,2022-05-17
+Tablet,West,4482,2062,0.18,Accessories,2022-07-16
+Tablet,North,4886,110,0.28,Electronics,2022-09-29
+Smartwatch,East,859,1993,0.15,Office Supplies,2022-01-20
+Printer,South,1032,2178,0.16,Electronics,2022-10-24
+Laptop,North,4153,314,0.13,Accessories,2022-05-09
+Headphones,South,3480,2233,0.2,Accessories,2022-10-08
+Camera,East,4877,2062,0.16,Accessories,2022-03-12
+Headphones,South,5794,1916,0.14,Electronics,2022-10-27
+Phone,East,5184,1327,0.19,Accessories,2022-12-09
+Smartwatch,South,1414,675,0.21,Electronics,2022-07-13
+Laptop,South,3705,2362,0.18,Office Supplies,2022-02-02
+Camera,West,3319,2459,0.24,Office Supplies,2022-08-19
+Printer,North,1463,2327,0.17,Electronics,2022-09-21
+Phone,West,1798,1984,0.1,Accessories,2022-03-26
+Headphones,East,1736,567,0.18,Accessories,2022-12-13
+Tablet,South,975,1325,0.17,Office Supplies,2022-02-10
+Tablet,East,5067,248,0.14,Office Supplies,2022-01-09
+Headphones,South,4683,1108,0.28,Accessories,2022-07-23
+Headphones,South,4949,2066,0.29,Electronics,2022-11-19
+Monitor,West,5481,1769,0.07,Accessories,2022-03-19
+Camera,West,1180,545,0.14,Accessories,2022-10-25
+Printer,South,4313,492,0.23,Accessories,2022-06-05
+Monitor,West,4935,1453,0.22,Office Supplies,2022-02-13
+Monitor,East,2968,2131,0.1,Electronics,2022-07-02
+Phone,North,1207,158,0.28,Accessories,2022-06-02
+Smartwatch,South,5256,2296,0.17,Accessories,2022-11-28
+Monitor,West,4099,1425,0.05,Electronics,2022-11-12
+Printer,East,4955,1162,0.14,Office Supplies,2022-09-18
+Monitor,West,3181,1612,0.07,Accessories,2022-02-20
+Camera,East,4956,1309,0.22,Office Supplies,2022-11-29
+Laptop,South,3883,2194,0.23,Accessories,2022-10-05
+Printer,East,2043,186,0.12,Electronics,2022-01-09
+Printer,South,3090,404,0.19,Electronics,2022-10-04
+Headphones,West,3098,2289,0.26,Electronics,2022-10-30
+Laptop,East,1955,509,0.07,Accessories,2022-03-03
+Smartwatch,South,1414,147,0.19,Electronics,2022-07-07
+Camera,South,1983,910,0.06,Accessories,2022-08-16
+Camera,North,3085,1332,0.11,Office Supplies,2022-06-15
+Laptop,West,3007,1437,0.19,Electronics,2022-02-15
+Laptop,West,3587,816,0.16,Electronics,2022-10-29
+Headphones,West,2495,1173,0.17,Electronics,2022-05-31
+Phone,South,3203,1416,0.22,Office Supplies,2022-10-27
+Camera,East,4745,483,0.21,Office Supplies,2022-05-31
+Phone,East,2316,770,0.22,Office Supplies,2022-10-15
+Tablet,South,2030,1702,0.06,Electronics,2022-06-24
+Headphones,West,2909,419,0.11,Accessories,2022-01-20
+Monitor,North,4952,707,0.1,Accessories,2022-10-19
+Phone,South,4998,2417,0.16,Electronics,2022-11-02
+Tablet,East,3546,1346,0.16,Electronics,2022-09-11
+Phone,South,5843,485,0.15,Accessories,2022-08-12
+Phone,South,3458,629,0.13,Office Supplies,2022-07-17
+Headphones,West,3513,1917,0.1,Office Supplies,2022-01-31
+Headphones,North,2209,1508,0.26,Accessories,2022-01-29
+Headphones,West,749,1469,0.08,Accessories,2022-04-10
+Phone,South,1804,1472,0.29,Office Supplies,2022-07-26
+Camera,South,936,2135,0.27,Office Supplies,2022-05-30
+Phone,West,1044,380,0.19,Accessories,2022-09-18
+Monitor,East,2974,1398,0.11,Office Supplies,2022-12-27
+Monitor,South,794,1640,0.29,Office Supplies,2022-03-09
+Smartwatch,South,4247,918,0.27,Accessories,2022-03-24
+Phone,East,1584,2251,0.19,Office Supplies,2022-06-16
+Camera,West,3429,585,0.15,Office Supplies,2022-11-30
+Printer,South,5561,502,0.21,Accessories,2022-11-07
+Phone,East,5373,2031,0.14,Office Supplies,2022-07-13
+Tablet,West,3361,930,0.11,Office Supplies,2022-09-12
+Camera,South,5038,1048,0.26,Office Supplies,2022-07-09
+Monitor,South,2464,748,0.22,Electronics,2022-07-23
+Smartwatch,West,1764,1865,0.27,Office Supplies,2022-08-16
+Smartwatch,North,1139,1326,0.23,Office Supplies,2022-02-12
+Tablet,North,2758,1498,0.2,Accessories,2022-02-09
+Tablet,South,1346,1512,0.06,Accessories,2022-04-19
+Camera,North,4436,126,0.06,Electronics,2022-08-23
+Laptop,West,3731,1357,0.09,Accessories,2022-04-24
+Tablet,North,4457,423,0.28,Office Supplies,2022-11-14
+Phone,South,5626,1737,0.26,Office Supplies,2022-04-23
+Tablet,North,690,1610,0.12,Accessories,2022-12-14
+Smartwatch,North,2948,1214,0.08,Office Supplies,2022-01-25
+Laptop,South,1383,1092,0.1,Office Supplies,2022-06-01
+Smartwatch,South,2542,188,0.15,Electronics,2022-07-19
+Printer,West,1784,148,0.27,Accessories,2022-10-21
+Camera,North,1923,1287,0.29,Accessories,2022-02-27
+Tablet,South,3967,1162,0.19,Electronics,2022-01-28
+Camera,East,1398,687,0.22,Electronics,2022-04-15
+Headphones,South,1434,1801,0.2,Office Supplies,2022-08-05
+Printer,West,3813,118,0.17,Electronics,2022-09-12
+Smartwatch,North,1185,2396,0.09,Electronics,2022-04-20
+Monitor,South,1852,2132,0.19,Office Supplies,2022-08-14
+Printer,North,2428,1958,0.2,Accessories,2022-07-15
+Laptop,East,3294,1849,0.15,Accessories,2022-03-22
+Printer,North,4533,538,0.18,Office Supplies,2022-12-29
+Monitor,West,1390,552,0.23,Office Supplies,2022-10-21
+Phone,South,2553,2375,0.3,Accessories,2022-03-24
+Headphones,East,4684,498,0.12,Office Supplies,2022-03-21
+Tablet,East,2651,2120,0.16,Office Supplies,2022-07-02
+Headphones,East,2510,363,0.24,Office Supplies,2022-09-21
+Headphones,North,2252,663,0.07,Electronics,2022-07-10
+Monitor,North,4172,395,0.1,Office Supplies,2022-05-18
+Printer,South,3410,896,0.14,Office Supplies,2022-08-04
+Camera,West,3337,1350,0.13,Electronics,2022-04-27
+Printer,West,3346,296,0.11,Accessories,2022-10-01
+Headphones,South,1354,297,0.27,Electronics,2022-10-10
+Printer,West,2783,1036,0.13,Office Supplies,2022-01-04
+Printer,South,3852,2233,0.25,Electronics,2022-07-17
+Camera,South,533,1339,0.19,Office Supplies,2022-10-13
+Phone,West,2202,1566,0.26,Electronics,2022-09-28
+Printer,East,1616,1435,0.28,Electronics,2022-04-09
+Camera,East,4170,367,0.21,Electronics,2022-01-17
+Phone,South,2623,1372,0.08,Electronics,2022-06-02
+Monitor,North,5774,902,0.09,Accessories,2022-11-08
+Tablet,South,2187,567,0.15,Accessories,2022-05-25
